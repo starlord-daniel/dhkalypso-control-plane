@@ -6,4 +6,4 @@ spec:
   repo: https://github.com/starlord-daniel/dhkalypso-control-plane
   branch: main
   path: .
-  commit: 802bca4de075851053e29cf446bb986dee188d56
+  commit: ec809c840096577f7cc45b8e0e7913b71d5ed538
